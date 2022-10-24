@@ -10,9 +10,17 @@
 
 4) `docker-compose up`
    
-5) Open browser and go to url: `http://127.0.0.1:8000/`
-   
-6) 
+5) Open browser and go to url: *http://127.0.0.1:8000/*
+   Check the  {"message": "Hello World"} appears
+
+----
+6) Go to URL: *http://127.0.0.1:5050*
+   Login with: username = admin@admin.com, password = password
+
+7) 
+
+
+
 
 Key Commands
 
